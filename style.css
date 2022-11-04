@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.lefttitle, .righttitle {
+	color: white;
+	text-align: left;
+	text-transform: capitalize;
+	font-size: 30px
+}
+
+.col-1 {
+	float: left;
+}
+
+.col-2 {
+	float: right;
+}
